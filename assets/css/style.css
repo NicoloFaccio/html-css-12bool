@@ -1,0 +1,18 @@
+.container {
+    border: 1px solid red;
+}
+
+[class*="col-"] {
+    height: 50px;
+    border: 1px solid black;
+}
+
+/* PROPERTIES OF THE COLOR */
+
+.green {
+    background-color: rgba(99, 154, 64, 1);
+}
+
+.red {
+    background-color: rgba(255, 0, 0, 1);
+}
