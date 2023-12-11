@@ -16,3 +16,15 @@
 .red {
     background-color: rgba(255, 0, 0, 1);
 }
+
+.pink {
+    background-color: rgba(255, 182, 154, 1);
+}
+
+.gold {
+    background-color: gold;
+}
+
+.black {
+    background-color: black;
+}
